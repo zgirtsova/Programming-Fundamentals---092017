@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe
+c:\users\zoya\documents\visual studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\03. English Name of Last Digit\obj\Debug\03. BUG - English Name of Last Digit.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.exe
+c:\users\zoya\documents\visual studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.pdb

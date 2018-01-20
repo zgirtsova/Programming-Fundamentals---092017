@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\03. Search for a Number\obj\Debug\_03.Search_for_a_Number.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\03. Search for a Number\obj\Debug\_03.Search_for_a_Number.pdb

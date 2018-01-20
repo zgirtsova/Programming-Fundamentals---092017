@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\test\bin\Debug\test.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\test\bin\Debug\test.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\test\bin\Debug\test.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\test\obj\Debug\test.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\test\obj\Debug\test.pdb

@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.pdb

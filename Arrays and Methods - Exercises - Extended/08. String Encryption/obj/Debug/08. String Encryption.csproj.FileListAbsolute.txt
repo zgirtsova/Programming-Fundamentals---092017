@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\08. String Encryption\bin\Debug\_08.String_Encryption.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\08. String Encryption\bin\Debug\_08.String_Encryption.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\08. String Encryption\bin\Debug\_08.String_Encryption.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\08. String Encryption\obj\Debug\08. String Encryption.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\08. String Encryption\obj\Debug\_08.String_Encryption.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\08. String Encryption\obj\Debug\_08.String_Encryption.pdb

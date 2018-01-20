@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\05. Count of Odd Numbers in Array\obj\Debug\05. Count of Odd Numbers in Array.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\05. Count of Odd Numbers in Array\obj\Debug\_05.Count_of_Odd_Numbers_in_Array.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\05. Count of Odd Numbers in Array\obj\Debug\_05.Count_of_Odd_Numbers_in_Array.pdb

@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\05. Decode Radio Frequencies\bin\Debug\_05.Decode_Radio_Frequencies.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\05. Decode Radio Frequencies\bin\Debug\_05.Decode_Radio_Frequencies.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\05. Decode Radio Frequencies\bin\Debug\_05.Decode_Radio_Frequencies.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\05. Decode Radio Frequencies\obj\Debug\05. Decode Radio Frequencies.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\05. Decode Radio Frequencies\obj\Debug\_05.Decode_Radio_Frequencies.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\05. Decode Radio Frequencies\obj\Debug\_05.Decode_Radio_Frequencies.pdb

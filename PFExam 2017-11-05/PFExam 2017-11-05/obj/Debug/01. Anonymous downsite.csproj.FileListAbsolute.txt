@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\PFExam 2017-11-05\bin\Debug\PFExam 2017-11-05.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\PFExam 2017-11-05\bin\Debug\PFExam 2017-11-05.exe
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\PFExam 2017-11-05\bin\Debug\PFExam 2017-11-05.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\PFExam 2017-11-05\obj\Debug\01. Anonymous downsite.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\PFExam 2017-11-05\obj\Debug\PFExam 2017-11-05.exe
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\PFExam 2017-11-05\obj\Debug\PFExam 2017-11-05.pdb

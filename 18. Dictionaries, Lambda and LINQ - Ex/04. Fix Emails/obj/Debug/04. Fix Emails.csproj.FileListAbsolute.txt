@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\04. Fix Emails\bin\Debug\_04.Fix_Emails.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\04. Fix Emails\obj\Debug\04. Fix Emails.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\04. Fix Emails\obj\Debug\_04.Fix_Emails.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\04. Fix Emails\obj\Debug\_04.Fix_Emails.pdb

@@ -1,0 +1,5 @@
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe.config
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\02. Randomize Words\bin\Debug\_02.Randomize_Words.pdb
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\02. Randomize Words\obj\Debug\_02.Randomize_Words.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\02. Randomize Words\obj\Debug\_02.Randomize_Words.pdb

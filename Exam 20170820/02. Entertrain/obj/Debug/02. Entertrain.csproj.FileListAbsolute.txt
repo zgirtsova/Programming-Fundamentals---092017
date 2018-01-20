@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\02. Entertrain\bin\Debug\_02.Entertrain.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\02. Entertrain\bin\Debug\_02.Entertrain.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\02. Entertrain\bin\Debug\_02.Entertrain.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\02. Entertrain\obj\Debug\02. Entertrain.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\02. Entertrain\obj\Debug\_02.Entertrain.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\02. Entertrain\obj\Debug\_02.Entertrain.pdb

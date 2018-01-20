@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\05. Integer to Base\bin\Debug\_05.Integer_to_Base.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\05. Integer to Base\bin\Debug\_05.Integer_to_Base.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\05. Integer to Base\bin\Debug\_05.Integer_to_Base.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\05. Integer to Base\obj\Debug\_05.Integer_to_Base.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\05. Integer to Base\obj\Debug\_05.Integer_to_Base.pdb

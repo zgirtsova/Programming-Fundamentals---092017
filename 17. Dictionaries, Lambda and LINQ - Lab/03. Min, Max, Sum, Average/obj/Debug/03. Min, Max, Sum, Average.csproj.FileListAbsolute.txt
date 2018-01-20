@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\03. Min, Max, Sum, Average.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.pdb

@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\16. Lists - More Exercises\bin\Debug\_16.Lists___More_Exercises.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\16. Lists - More Exercises\bin\Debug\_16.Lists___More_Exercises.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\16. Lists - More Exercises\bin\Debug\_16.Lists___More_Exercises.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\16. Lists - More Exercises\obj\Debug\16. Lists - More Exercises.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\16. Lists - More Exercises\obj\Debug\_16.Lists___More_Exercises.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\16. Lists - More Exercises\obj\Debug\_16.Lists___More_Exercises.pdb

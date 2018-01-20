@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\03. Last K Numbers Sums\obj\Debug\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.pdb

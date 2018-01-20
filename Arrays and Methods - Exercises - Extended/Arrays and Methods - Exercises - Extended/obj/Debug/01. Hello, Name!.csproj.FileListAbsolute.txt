@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\Arrays and Methods - Exercises - Extended\bin\Debug\Arrays and Methods - Exercises - Extended.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\Arrays and Methods - Exercises - Extended\bin\Debug\Arrays and Methods - Exercises - Extended.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\Arrays and Methods - Exercises - Extended\bin\Debug\Arrays and Methods - Exercises - Extended.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\Arrays and Methods - Exercises - Extended\obj\Debug\01. Hello, Name!.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\Arrays and Methods - Exercises - Extended\obj\Debug\Arrays and Methods - Exercises - Extended.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\Arrays and Methods - Exercises - Extended\obj\Debug\Arrays and Methods - Exercises - Extended.pdb

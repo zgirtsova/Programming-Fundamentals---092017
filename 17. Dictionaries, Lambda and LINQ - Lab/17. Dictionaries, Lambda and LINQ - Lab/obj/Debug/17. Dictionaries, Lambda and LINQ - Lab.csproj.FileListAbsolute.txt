@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\bin\Debug\_17.Dictionaries__Lambda_and_LINQ___Lab.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\bin\Debug\_17.Dictionaries__Lambda_and_LINQ___Lab.exe
+c:\users\zoya\documents\visual studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\bin\Debug\_17.Dictionaries__Lambda_and_LINQ___Lab.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\obj\Debug\17. Dictionaries, Lambda and LINQ - Lab.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\obj\Debug\_17.Dictionaries__Lambda_and_LINQ___Lab.exe
+c:\users\zoya\documents\visual studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\obj\Debug\_17.Dictionaries__Lambda_and_LINQ___Lab.pdb

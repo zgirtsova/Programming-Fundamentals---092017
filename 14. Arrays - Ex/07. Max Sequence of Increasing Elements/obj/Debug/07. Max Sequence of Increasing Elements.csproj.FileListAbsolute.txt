@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\07. Max Sequence of Increasing Elements\obj\Debug\_07.Max_Sequence_of_Increasing_Elements.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\07. Max Sequence of Increasing Elements\obj\Debug\_07.Max_Sequence_of_Increasing_Elements.pdb

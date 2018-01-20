@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\06. User Logs\bin\Debug\_06.User_Logs.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\06. User Logs\bin\Debug\_06.User_Logs.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\06. User Logs\bin\Debug\_06.User_Logs.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\06. User Logs\obj\Debug\06. User Logs.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\06. User Logs\obj\Debug\_06.User_Logs.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\06. User Logs\obj\Debug\_06.User_Logs.pdb

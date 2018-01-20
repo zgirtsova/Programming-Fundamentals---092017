@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\02. Max Method\bin\Debug\_02.Max_Method.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\02. Max Method\bin\Debug\_02.Max_Method.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\02. Max Method\bin\Debug\_02.Max_Method.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\02. Max Method\obj\Debug\_02.Max_Method.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\02. Max Method\obj\Debug\_02.Max_Method.pdb

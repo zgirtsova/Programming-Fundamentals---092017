@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb

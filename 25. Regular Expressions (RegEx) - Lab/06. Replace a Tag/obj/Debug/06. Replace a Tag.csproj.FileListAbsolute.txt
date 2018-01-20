@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\_06.Replace_a_Tag.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\_06.Replace_a_Tag.exe
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\_06.Replace_a_Tag.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\06. Replace a Tag.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\_06.Replace_a_Tag.exe
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\_06.Replace_a_Tag.pdb

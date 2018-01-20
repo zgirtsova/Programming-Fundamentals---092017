@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\04. Split by Word Casing\obj\Debug\04. Split by Word Casing.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.pdb

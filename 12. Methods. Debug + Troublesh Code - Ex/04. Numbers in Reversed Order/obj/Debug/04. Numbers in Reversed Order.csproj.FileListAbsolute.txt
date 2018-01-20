@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

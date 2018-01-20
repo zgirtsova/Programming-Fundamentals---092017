@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\fdfdfd\bin\Debug\fdfdfd.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\fdfdfd\bin\Debug\fdfdfd.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\fdfdfd\bin\Debug\fdfdfd.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\fdfdfd\obj\Debug\fdfdfd.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\fdfdfd\obj\Debug\fdfdfd.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\fdfdfd\obj\Debug\fdfdfd.pdb

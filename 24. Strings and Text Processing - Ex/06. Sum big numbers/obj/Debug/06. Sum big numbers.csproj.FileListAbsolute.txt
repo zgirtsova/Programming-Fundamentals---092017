@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\06. Sum big numbers\obj\Debug\06. Sum big numbers.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.pdb

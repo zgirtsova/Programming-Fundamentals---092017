@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\15. ++Substring\bin\Debug\_15.__Substring.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\15. ++Substring\bin\Debug\_15.__Substring.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\15. ++Substring\bin\Debug\_15.__Substring.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\15. ++Substring\obj\Debug\15. ++Substring.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\15. ++Substring\obj\Debug\_15.__Substring.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\15. ++Substring\obj\Debug\_15.__Substring.pdb

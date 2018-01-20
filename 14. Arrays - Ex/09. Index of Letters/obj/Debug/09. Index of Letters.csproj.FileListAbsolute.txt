@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\09. Index of Letters\bin\Debug\_09.Index_of_Letters.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\09. Index of Letters\obj\Debug\09. Index of Letters.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\09. Index of Letters\obj\Debug\_09.Index_of_Letters.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\09. Index of Letters\obj\Debug\_09.Index_of_Letters.pdb

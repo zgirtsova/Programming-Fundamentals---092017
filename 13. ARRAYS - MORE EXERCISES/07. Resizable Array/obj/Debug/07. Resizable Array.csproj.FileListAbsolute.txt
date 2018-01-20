@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\07. Resizable Array\bin\Debug\_07.Resizable_Array.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\07. Resizable Array\bin\Debug\_07.Resizable_Array.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\07. Resizable Array\bin\Debug\_07.Resizable_Array.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\07. Resizable Array\obj\Debug\07. Resizable Array.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\07. Resizable Array\obj\Debug\_07.Resizable_Array.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\07. Resizable Array\obj\Debug\_07.Resizable_Array.pdb

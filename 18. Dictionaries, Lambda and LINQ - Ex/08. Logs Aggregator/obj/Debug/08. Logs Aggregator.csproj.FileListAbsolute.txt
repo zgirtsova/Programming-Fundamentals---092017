@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\08. Logs Aggregator\obj\Debug\08. Logs Aggregator.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\08. Logs Aggregator\obj\Debug\_08.Logs_Aggregator.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\08. Logs Aggregator\obj\Debug\_08.Logs_Aggregator.pdb

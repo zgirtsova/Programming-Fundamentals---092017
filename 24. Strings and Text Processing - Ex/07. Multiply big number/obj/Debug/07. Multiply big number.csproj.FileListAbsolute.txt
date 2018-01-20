@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\07. Multiply big number\bin\Debug\_07.Multiply_big_number.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\07. Multiply big number\bin\Debug\_07.Multiply_big_number.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\07. Multiply big number\bin\Debug\_07.Multiply_big_number.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\07. Multiply big number\obj\Debug\07. Multiply big number.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\07. Multiply big number\obj\Debug\_07.Multiply_big_number.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\07. Multiply big number\obj\Debug\_07.Multiply_big_number.pdb

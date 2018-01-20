@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\10. Count of Negative Elements in Array\bin\Debug\_10.Count_of_Negative_Elements_in_Array.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\10. Count of Negative Elements in Array\bin\Debug\_10.Count_of_Negative_Elements_in_Array.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\10. Count of Negative Elements in Array\bin\Debug\_10.Count_of_Negative_Elements_in_Array.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\10. Count of Negative Elements in Array\obj\Debug\_10.Count_of_Negative_Elements_in_Array.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\10. Count of Negative Elements in Array\obj\Debug\_10.Count_of_Negative_Elements_in_Array.pdb

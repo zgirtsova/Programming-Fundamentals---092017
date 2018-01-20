@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\03. Camera View\bin\Debug\_03.Camera_View.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\03. Camera View\bin\Debug\_03.Camera_View.exe
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\03. Camera View\bin\Debug\_03.Camera_View.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\03. Camera View\obj\Debug\03. Camera View.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\03. Camera View\obj\Debug\_03.Camera_View.exe
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\03. Camera View\obj\Debug\_03.Camera_View.pdb

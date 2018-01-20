@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\08. Mentor Group\bin\Debug\_08.Mentor_Group.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\08. Mentor Group\obj\Debug\08. Mentor Group.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\08. Mentor Group\obj\Debug\_08.Mentor_Group.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\08. Mentor Group\obj\Debug\_08.Mentor_Group.pdb

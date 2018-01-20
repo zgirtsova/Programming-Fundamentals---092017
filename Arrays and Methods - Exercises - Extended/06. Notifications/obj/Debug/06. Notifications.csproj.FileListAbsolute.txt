@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\06. Notifications\bin\Debug\_06.Notifications.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\06. Notifications\bin\Debug\_06.Notifications.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\06. Notifications\bin\Debug\_06.Notifications.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\06. Notifications\obj\Debug\06. Notifications.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\06. Notifications\obj\Debug\_06.Notifications.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\06. Notifications\obj\Debug\_06.Notifications.pdb

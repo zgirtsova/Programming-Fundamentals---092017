@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\20. Debugging Ex - Triangle Formations\bin\Debug\_20.Debugging_Ex___Triangle_Formations.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\20. Debugging Ex - Triangle Formations\bin\Debug\_20.Debugging_Ex___Triangle_Formations.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\20. Debugging Ex - Triangle Formations\bin\Debug\_20.Debugging_Ex___Triangle_Formations.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\20. Debugging Ex - Triangle Formations\obj\Debug\_20.Debugging_Ex___Triangle_Formations.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\20. Debugging Ex - Triangle Formations\obj\Debug\_20.Debugging_Ex___Triangle_Formations.pdb

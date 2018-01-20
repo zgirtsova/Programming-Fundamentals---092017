@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\09. Extract Middle Elements\obj\Debug\09. Extract Middle Elements.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.pdb

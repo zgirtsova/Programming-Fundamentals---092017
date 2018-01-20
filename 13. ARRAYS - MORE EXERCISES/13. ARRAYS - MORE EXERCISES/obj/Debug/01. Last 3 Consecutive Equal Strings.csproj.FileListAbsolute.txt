@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\13. ARRAYS - MORE EXERCISES\bin\Debug\_13.ARRAYS___MORE_EXERCISES.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\13. ARRAYS - MORE EXERCISES\bin\Debug\_13.ARRAYS___MORE_EXERCISES.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\13. ARRAYS - MORE EXERCISES\bin\Debug\_13.ARRAYS___MORE_EXERCISES.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\13. ARRAYS - MORE EXERCISES\obj\Debug\01. Last 3 Consecutive Equal Strings.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\13. ARRAYS - MORE EXERCISES\obj\Debug\_13.ARRAYS___MORE_EXERCISES.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\13. ARRAYS - MORE EXERCISES\obj\Debug\_13.ARRAYS___MORE_EXERCISES.pdb

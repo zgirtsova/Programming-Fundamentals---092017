@@ -1,0 +1,10 @@
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\WindowsFormsAppTurtle\bin\Debug\WindowsFormsAppTurtle.exe.config
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\WindowsFormsAppTurtle\bin\Debug\WindowsFormsAppTurtle.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\WindowsFormsAppTurtle\bin\Debug\WindowsFormsAppTurtle.pdb
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\WindowsFormsAppTurtle\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\WindowsFormsAppTurtle\obj\Debug\WindowsFormsAppTurtle.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\WindowsFormsAppTurtle\obj\Debug\WindowsFormsAppTurtle.Form1.resources
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\WindowsFormsAppTurtle\obj\Debug\WindowsFormsAppTurtle.Properties.Resources.resources
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\WindowsFormsAppTurtle\obj\Debug\WindowsFormsAppTurtle.csproj.GenerateResource.Cache
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\WindowsFormsAppTurtle\obj\Debug\WindowsFormsAppTurtle.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\WindowsFormsAppTurtle\obj\Debug\WindowsFormsAppTurtle.pdb

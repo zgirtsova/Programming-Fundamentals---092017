@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\16. ++Instruction Set\bin\Debug\_16.__Instruction_Set.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\16. ++Instruction Set\bin\Debug\_16.__Instruction_Set.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\16. ++Instruction Set\bin\Debug\_16.__Instruction_Set.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\16. ++Instruction Set\obj\Debug\16. ++Instruction Set.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\16. ++Instruction Set\obj\Debug\_16.__Instruction_Set.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\16. ++Instruction Set\obj\Debug\_16.__Instruction_Set.pdb

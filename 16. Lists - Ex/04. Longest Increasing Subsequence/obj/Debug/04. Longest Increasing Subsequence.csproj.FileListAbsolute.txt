@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\04. Longest Increasing Subsequence\bin\Debug\_04.Longest_Increasing_Subsequence.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\04. Longest Increasing Subsequence\bin\Debug\_04.Longest_Increasing_Subsequence.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\04. Longest Increasing Subsequence\bin\Debug\_04.Longest_Increasing_Subsequence.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\04. Longest Increasing Subsequence\obj\Debug\_04.Longest_Increasing_Subsequence.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\04. Longest Increasing Subsequence\obj\Debug\_04.Longest_Increasing_Subsequence.pdb

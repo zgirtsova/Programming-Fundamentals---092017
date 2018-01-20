@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Tests\bin\Debug\Tests.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Tests\bin\Debug\Tests.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Tests\bin\Debug\Tests.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Tests\obj\Debug\Tests.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Tests\obj\Debug\Tests.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache

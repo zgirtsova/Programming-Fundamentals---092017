@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.pdb

@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\16. Array Symmetry\obj\Debug\_16.Array_Symmetry.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\16. Array Symmetry\obj\Debug\_16.Array_Symmetry.pdb

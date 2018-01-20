@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\04. Flip List Sides\bin\Debug\_04.Flip_List_Sides.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\04. Flip List Sides\bin\Debug\_04.Flip_List_Sides.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\04. Flip List Sides\bin\Debug\_04.Flip_List_Sides.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\04. Flip List Sides\obj\Debug\04. Flip List Sides.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\04. Flip List Sides\obj\Debug\_04.Flip_List_Sides.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\04. Flip List Sides\obj\Debug\_04.Flip_List_Sides.pdb

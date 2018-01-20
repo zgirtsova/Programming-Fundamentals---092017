@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\02. Reverse Array of Integers\obj\Debug\_02.Reverse_Array_of_Integers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\02. Reverse Array of Integers\obj\Debug\_02.Reverse_Array_of_Integers.pdb

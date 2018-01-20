@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\02. Integer Insertion\bin\Debug\_02.Integer_Insertion.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\02. Integer Insertion\bin\Debug\_02.Integer_Insertion.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\02. Integer Insertion\bin\Debug\_02.Integer_Insertion.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\02. Integer Insertion\obj\Debug\_02.Integer_Insertion.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\02. Integer Insertion\obj\Debug\_02.Integer_Insertion.pdb

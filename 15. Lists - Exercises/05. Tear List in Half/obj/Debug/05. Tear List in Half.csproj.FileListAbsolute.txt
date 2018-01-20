@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\05. Tear List in Half\bin\Debug\_05.Tear_List_in_Half.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\05. Tear List in Half\bin\Debug\_05.Tear_List_in_Half.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\05. Tear List in Half\bin\Debug\_05.Tear_List_in_Half.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\05. Tear List in Half\obj\Debug\05. Tear List in Half.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\05. Tear List in Half\obj\Debug\_05.Tear_List_in_Half.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\05. Tear List in Half\obj\Debug\_05.Tear_List_in_Half.pdb

@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\02. Advertisement Message\obj\Debug\02. Advertisement Message.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb

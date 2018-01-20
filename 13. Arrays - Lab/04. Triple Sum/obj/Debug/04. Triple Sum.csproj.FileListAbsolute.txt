@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\04. Triple Sum\bin\Debug\_04.Triple_Sum.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\04. Triple Sum\bin\Debug\_04.Triple_Sum.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\04. Triple Sum\bin\Debug\_04.Triple_Sum.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\04. Triple Sum\obj\Debug\04. Triple Sum.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\04. Triple Sum\obj\Debug\_04.Triple_Sum.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\04. Triple Sum\obj\Debug\_04.Triple_Sum.pdb

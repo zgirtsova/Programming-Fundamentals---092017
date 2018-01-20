@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\03. Printing Triangle\obj\Debug\03. Printing Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb

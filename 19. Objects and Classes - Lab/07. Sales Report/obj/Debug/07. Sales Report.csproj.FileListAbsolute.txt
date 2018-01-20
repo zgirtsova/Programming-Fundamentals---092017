@@ -1,0 +1,6 @@
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\07. Sales Report\obj\Debug\07. Sales Report.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\07. Sales Report\bin\Debug\_07.Sales_Report.exe.config
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\07. Sales Report\bin\Debug\_07.Sales_Report.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\07. Sales Report\bin\Debug\_07.Sales_Report.pdb
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\07. Sales Report\obj\Debug\_07.Sales_Report.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\07. Sales Report\obj\Debug\_07.Sales_Report.pdb

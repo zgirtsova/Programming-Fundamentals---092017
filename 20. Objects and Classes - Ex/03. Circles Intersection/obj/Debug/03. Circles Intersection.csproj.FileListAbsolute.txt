@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\03. Circles Intersection\obj\Debug\03. Circles Intersection.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.pdb

@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\05. Match Numbers\bin\Debug\_05.Match_Numbers.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\05. Match Numbers\obj\Debug\_05.Match_Numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\05. Match Numbers\obj\Debug\_05.Match_Numbers.pdb

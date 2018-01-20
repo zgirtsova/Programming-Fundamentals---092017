@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Test\bin\Debug\Test.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Test\bin\Debug\Test.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Test\bin\Debug\Test.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Test\obj\Debug\Test.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\Test\obj\Debug\Test.pdb

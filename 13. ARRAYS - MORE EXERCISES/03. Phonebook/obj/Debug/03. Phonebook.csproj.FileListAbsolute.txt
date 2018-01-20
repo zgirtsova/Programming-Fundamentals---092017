@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\03. Phonebook\bin\Debug\_03.Phonebook.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\03. Phonebook\bin\Debug\_03.Phonebook.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\03. Phonebook\bin\Debug\_03.Phonebook.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\03. Phonebook\obj\Debug\_03.Phonebook.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\03. Phonebook\obj\Debug\_03.Phonebook.pdb

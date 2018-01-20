@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\03. Equal Sum After Extraction\bin\Debug\_03.Equal_Sum_After_Extraction.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\03. Equal Sum After Extraction\bin\Debug\_03.Equal_Sum_After_Extraction.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\03. Equal Sum After Extraction\bin\Debug\_03.Equal_Sum_After_Extraction.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\03. Equal Sum After Extraction\obj\Debug\03. Equal Sum After Extraction.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\03. Equal Sum After Extraction\obj\Debug\_03.Equal_Sum_After_Extraction.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\03. Equal Sum After Extraction\obj\Debug\_03.Equal_Sum_After_Extraction.pdb

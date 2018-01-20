@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\04. Grab and Go\bin\Debug\_04.Grab_and_Go.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\04. Grab and Go\bin\Debug\_04.Grab_and_Go.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\04. Grab and Go\bin\Debug\_04.Grab_and_Go.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\04. Grab and Go.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\_04.Grab_and_Go.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\04. Grab and Go\obj\Debug\_04.Grab_and_Go.pdb

@@ -1,0 +1,12 @@
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\18. Different Integers Size\obj\Debug\18. Different Integers Size.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.exe
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\Programming Fundamentals - September 2017\10. Data Types and Variables - Ex\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\Programming Fundamentals - September 2017\10. Data Types and Variables - Ex\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\Programming Fundamentals - September 2017\10. Data Types and Variables - Ex\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\Programming Fundamentals - September 2017\10. Data Types and Variables - Ex\18. Different Integers Size\obj\Debug\18. Different Integers Size.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\Programming Fundamentals - September 2017\10. Data Types and Variables - Ex\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\Programming Fundamentals - September 2017\10. Data Types and Variables - Ex\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.pdb

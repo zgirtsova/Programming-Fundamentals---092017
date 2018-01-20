@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\05. Key Replacer\bin\Debug\_05.Key_Replacer.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\05. Key Replacer\obj\Debug\05. Key Replacer.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\05. Key Replacer\obj\Debug\_05.Key_Replacer.exe
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\05. Key Replacer\obj\Debug\_05.Key_Replacer.pdb

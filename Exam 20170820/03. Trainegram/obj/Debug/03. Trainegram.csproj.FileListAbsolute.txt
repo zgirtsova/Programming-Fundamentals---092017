@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\03. Trainegram\bin\Debug\_03.Trainegram.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\03. Trainegram\bin\Debug\_03.Trainegram.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\03. Trainegram\bin\Debug\_03.Trainegram.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\03. Trainegram\obj\Debug\03. Trainegram.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\03. Trainegram\obj\Debug\_03.Trainegram.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\03. Trainegram\obj\Debug\_03.Trainegram.pdb

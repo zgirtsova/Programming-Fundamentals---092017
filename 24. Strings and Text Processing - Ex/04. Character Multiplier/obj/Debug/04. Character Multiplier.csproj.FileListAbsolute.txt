@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\04. Character Multiplier\obj\Debug\04. Character Multiplier.csprojResolveAssemblyReference.cache

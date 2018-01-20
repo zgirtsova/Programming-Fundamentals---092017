@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\03. Safe Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.pdb

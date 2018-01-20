@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.exe
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\02. Match Phone Number\obj\Debug\_02.Match_Phone_Number.exe
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\02. Match Phone Number\obj\Debug\_02.Match_Phone_Number.pdb

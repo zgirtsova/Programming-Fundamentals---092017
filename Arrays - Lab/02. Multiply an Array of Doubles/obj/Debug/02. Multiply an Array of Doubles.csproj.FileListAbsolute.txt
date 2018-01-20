@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\02. Multiply an Array of Doubles\obj\Debug\_02.Multiply_an_Array_of_Doubles.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\02. Multiply an Array of Doubles\obj\Debug\_02.Multiply_an_Array_of_Doubles.pdb

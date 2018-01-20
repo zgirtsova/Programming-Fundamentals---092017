@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\05. Char Rotation\bin\Debug\_05.Char_Rotation.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\05. Char Rotation\bin\Debug\_05.Char_Rotation.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\05. Char Rotation\bin\Debug\_05.Char_Rotation.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\05. Char Rotation\obj\Debug\05. Char Rotation.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\05. Char Rotation\obj\Debug\_05.Char_Rotation.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\05. Char Rotation\obj\Debug\_05.Char_Rotation.pdb

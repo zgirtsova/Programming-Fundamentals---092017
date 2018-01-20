@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\06. Square Numbers\bin\Debug\_06.Square_Numbers.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\06. Square Numbers\obj\Debug\_06.Square_Numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\06. Square Numbers\obj\Debug\_06.Square_Numbers.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\06. Square Numbers\obj\Debug\06. Square Numbers.csprojResolveAssemblyReference.cache

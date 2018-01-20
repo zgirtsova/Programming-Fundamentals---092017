@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\04. Nth Digit\bin\Debug\_04.Nth_Digit.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\04. Nth Digit\bin\Debug\_04.Nth_Digit.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\04. Nth Digit\bin\Debug\_04.Nth_Digit.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\04. Nth Digit\obj\Debug\_04.Nth_Digit.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\04. Nth Digit\obj\Debug\_04.Nth_Digit.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\04. Nth Digit\obj\Debug\04. Nth Digit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\02. Manipulate Array.csprojResolveAssemblyReference.cache

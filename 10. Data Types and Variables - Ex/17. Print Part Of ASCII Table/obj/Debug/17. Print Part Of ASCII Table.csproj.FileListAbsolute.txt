@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.exe
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\17. Print Part Of ASCII Table\obj\Debug\17. Print Part Of ASCII Table.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\17. Print Part Of ASCII Table\obj\Debug\_17.Print_Part_Of_ASCII_Table.exe
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\17. Print Part Of ASCII Table\obj\Debug\_17.Print_Part_Of_ASCII_Table.pdb

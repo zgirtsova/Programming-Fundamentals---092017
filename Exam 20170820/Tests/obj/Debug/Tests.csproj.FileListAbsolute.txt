@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Tests\bin\Debug\Tests.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Tests\bin\Debug\Tests.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Tests\bin\Debug\Tests.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Tests\obj\Debug\Tests.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Tests\obj\Debug\Tests.pdb

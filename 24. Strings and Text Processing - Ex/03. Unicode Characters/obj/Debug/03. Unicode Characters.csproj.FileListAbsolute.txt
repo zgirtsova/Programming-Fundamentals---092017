@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\03. Unicode Characters\obj\Debug\03. Unicode Characters.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb

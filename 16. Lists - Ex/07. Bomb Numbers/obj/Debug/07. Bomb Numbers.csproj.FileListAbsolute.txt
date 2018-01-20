@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\07. Bomb Numbers\obj\Debug\07. Bomb Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\07. Bomb Numbers\obj\Debug\_07.Bomb_Numbers.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\07. Bomb Numbers\obj\Debug\_07.Bomb_Numbers.pdb

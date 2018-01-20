@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\bin\Debug\_17.Dictionaries__Lambda_and_LINQ___Lab.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\bin\Debug\_17.Dictionaries__Lambda_and_LINQ___Lab.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\bin\Debug\_17.Dictionaries__Lambda_and_LINQ___Lab.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\obj\Debug\02. Odd Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\obj\Debug\_17.Dictionaries__Lambda_and_LINQ___Lab.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\17. Dictionaries, Lambda and LINQ - Lab\obj\Debug\_17.Dictionaries__Lambda_and_LINQ___Lab.pdb

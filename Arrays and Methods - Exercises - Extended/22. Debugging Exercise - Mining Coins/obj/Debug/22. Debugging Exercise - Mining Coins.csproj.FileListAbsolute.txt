@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\22. Debugging Exercise - Mining Coins\bin\Debug\_22.Debugging_Exercise___Mining_Coins.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\22. Debugging Exercise - Mining Coins\bin\Debug\_22.Debugging_Exercise___Mining_Coins.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\22. Debugging Exercise - Mining Coins\bin\Debug\_22.Debugging_Exercise___Mining_Coins.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\22. Debugging Exercise - Mining Coins\obj\Debug\22. Debugging Exercise - Mining Coins.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\22. Debugging Exercise - Mining Coins\obj\Debug\_22.Debugging_Exercise___Mining_Coins.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\22. Debugging Exercise - Mining Coins\obj\Debug\_22.Debugging_Exercise___Mining_Coins.pdb

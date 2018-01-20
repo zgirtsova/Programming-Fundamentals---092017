@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\02. Array Elements Equal to Their Index\bin\Debug\_02.Array_Elements_Equal_to_Their_Index.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\02. Array Elements Equal to Their Index\bin\Debug\_02.Array_Elements_Equal_to_Their_Index.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\02. Array Elements Equal to Their Index\bin\Debug\_02.Array_Elements_Equal_to_Their_Index.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\02. Array Elements Equal to Their Index\obj\Debug\_02.Array_Elements_Equal_to_Their_Index.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\02. Array Elements Equal to Their Index\obj\Debug\_02.Array_Elements_Equal_to_Their_Index.pdb

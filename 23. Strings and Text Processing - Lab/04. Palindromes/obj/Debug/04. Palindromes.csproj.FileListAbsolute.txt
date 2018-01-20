@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\04. Palindromes\bin\Debug\_04.Palindromes.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\04. Palindromes\bin\Debug\_04.Palindromes.exe
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\04. Palindromes\bin\Debug\_04.Palindromes.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\04. Palindromes\obj\Debug\_04.Palindromes.exe
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\04. Palindromes\obj\Debug\_04.Palindromes.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\04. Palindromes\obj\Debug\04. Palindromes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\10. Сръбско Unleashed\obj\Debug\10. Сръбско Unleashed.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.pdb

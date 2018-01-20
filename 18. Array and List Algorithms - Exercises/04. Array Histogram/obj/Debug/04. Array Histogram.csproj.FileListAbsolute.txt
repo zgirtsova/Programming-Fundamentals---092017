@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\04. Array Histogram\bin\Debug\_04.Array_Histogram.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\04. Array Histogram\bin\Debug\_04.Array_Histogram.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\04. Array Histogram\bin\Debug\_04.Array_Histogram.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\04. Array Histogram\obj\Debug\04. Array Histogram.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\04. Array Histogram\obj\Debug\_04.Array_Histogram.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\04. Array Histogram\obj\Debug\_04.Array_Histogram.pdb

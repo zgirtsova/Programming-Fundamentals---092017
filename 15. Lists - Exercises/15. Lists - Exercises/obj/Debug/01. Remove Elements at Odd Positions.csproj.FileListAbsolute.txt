@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\15. Lists - Exercises\bin\Debug\_15.Lists___Exercises.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\15. Lists - Exercises\bin\Debug\_15.Lists___Exercises.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\15. Lists - Exercises\bin\Debug\_15.Lists___Exercises.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\15. Lists - Exercises\obj\Debug\01. Remove Elements at Odd Positions.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\15. Lists - Exercises\obj\Debug\_15.Lists___Exercises.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\15. Lists - Exercises\obj\Debug\_15.Lists___Exercises.pdb

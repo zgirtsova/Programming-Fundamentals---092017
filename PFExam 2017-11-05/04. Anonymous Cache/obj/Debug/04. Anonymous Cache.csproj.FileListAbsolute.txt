@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\04. Anonymous Cache\bin\Debug\_04.Anonymous_Cache.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\04. Anonymous Cache\bin\Debug\_04.Anonymous_Cache.exe
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\04. Anonymous Cache\bin\Debug\_04.Anonymous_Cache.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\04. Anonymous Cache\obj\Debug\_04.Anonymous_Cache.exe
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\04. Anonymous Cache\obj\Debug\_04.Anonymous_Cache.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\04. Anonymous Cache\obj\Debug\04. Anonymous Cache.csprojResolveAssemblyReference.cache

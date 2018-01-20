@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\02. Track Downloader\bin\Debug\_02.Track_Downloader.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\02. Track Downloader\bin\Debug\_02.Track_Downloader.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\02. Track Downloader\bin\Debug\_02.Track_Downloader.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\02. Track Downloader\obj\Debug\02. Track Downloader.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\02. Track Downloader\obj\Debug\_02.Track_Downloader.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\02. Track Downloader\obj\Debug\_02.Track_Downloader.pdb

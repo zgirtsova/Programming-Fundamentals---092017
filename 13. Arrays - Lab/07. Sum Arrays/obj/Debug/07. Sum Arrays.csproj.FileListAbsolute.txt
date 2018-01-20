@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\07. Sum Arrays\obj\Debug\07. Sum Arrays.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\07. Sum Arrays\obj\Debug\_07.Sum_Arrays.exe
+c:\users\zoya\documents\visual studio 2017\Projects\13. Arrays - Lab\07. Sum Arrays\obj\Debug\_07.Sum_Arrays.pdb

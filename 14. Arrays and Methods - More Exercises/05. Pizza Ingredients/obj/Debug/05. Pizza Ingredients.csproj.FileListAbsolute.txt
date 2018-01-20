@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\05. Pizza Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.pdb

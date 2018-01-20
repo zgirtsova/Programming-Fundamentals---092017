@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\08. Letters Change Numbers\obj\Debug\_08.Letters_Change_Numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\08. Letters Change Numbers\obj\Debug\_08.Letters_Change_Numbers.pdb

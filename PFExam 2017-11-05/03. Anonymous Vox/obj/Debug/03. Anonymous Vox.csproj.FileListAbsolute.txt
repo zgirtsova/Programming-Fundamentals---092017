@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\03. Anonymous Vox\bin\Debug\_03.Anonymous_Vox.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\03. Anonymous Vox\bin\Debug\_03.Anonymous_Vox.exe
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\03. Anonymous Vox\bin\Debug\_03.Anonymous_Vox.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\03. Anonymous Vox\obj\Debug\03. Anonymous Vox.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\03. Anonymous Vox\obj\Debug\_03.Anonymous_Vox.exe
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\03. Anonymous Vox\obj\Debug\_03.Anonymous_Vox.pdb

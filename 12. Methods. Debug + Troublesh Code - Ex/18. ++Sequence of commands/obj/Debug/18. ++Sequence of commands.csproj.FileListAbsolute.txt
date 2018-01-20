@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\18. ++Sequence of commands\bin\Debug\_18.__Sequence_of_commands.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\18. ++Sequence of commands\bin\Debug\_18.__Sequence_of_commands.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\18. ++Sequence of commands\bin\Debug\_18.__Sequence_of_commands.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\18. ++Sequence of commands\obj\Debug\18. ++Sequence of commands.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\18. ++Sequence of commands\obj\Debug\_18.__Sequence_of_commands.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\12. Methods. Debug + Troublesh Code - Ex\18. ++Sequence of commands\obj\Debug\_18.__Sequence_of_commands.pdb

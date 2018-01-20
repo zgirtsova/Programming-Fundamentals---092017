@@ -1,0 +1,12 @@
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\02. Append Lists\obj\Debug\02. Append Lists.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\02. Append Lists\obj\Debug\_02.Append_Lists.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\02. Append Lists\obj\Debug\02. Append Lists.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\02. Append Lists\obj\Debug\_02.Append_Lists.pdb

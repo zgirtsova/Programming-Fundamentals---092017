@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\11. Count of Given Element in Array\bin\Debug\_11.Count_of_Given_Element_in_Array.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\11. Count of Given Element in Array\bin\Debug\_11.Count_of_Given_Element_in_Array.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\11. Count of Given Element in Array\bin\Debug\_11.Count_of_Given_Element_in_Array.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\11. Count of Given Element in Array\obj\Debug\_11.Count_of_Given_Element_in_Array.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\11. Count of Given Element in Array\obj\Debug\_11.Count_of_Given_Element_in_Array.pdb

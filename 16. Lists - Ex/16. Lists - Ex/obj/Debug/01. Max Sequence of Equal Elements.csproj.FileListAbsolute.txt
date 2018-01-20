@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\16. Lists - Ex\bin\Debug\_16.Lists___Ex.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\16. Lists - Ex\bin\Debug\_16.Lists___Ex.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\16. Lists - Ex\bin\Debug\_16.Lists___Ex.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\16. Lists - Ex\obj\Debug\01. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\16. Lists - Ex\obj\Debug\_16.Lists___Ex.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\16. Lists - Ex\obj\Debug\_16.Lists___Ex.pdb

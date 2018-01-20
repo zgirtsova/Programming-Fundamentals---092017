@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\24. Strings and Text Processing - Ex\bin\Debug\_24.Strings_and_Text_Processing___Ex.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\24. Strings and Text Processing - Ex\bin\Debug\_24.Strings_and_Text_Processing___Ex.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\24. Strings and Text Processing - Ex\bin\Debug\_24.Strings_and_Text_Processing___Ex.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\24. Strings and Text Processing - Ex\obj\Debug\01. Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\24. Strings and Text Processing - Ex\obj\Debug\_24.Strings_and_Text_Processing___Ex.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\24. Strings and Text Processing - Ex\obj\Debug\_24.Strings_and_Text_Processing___Ex.pdb

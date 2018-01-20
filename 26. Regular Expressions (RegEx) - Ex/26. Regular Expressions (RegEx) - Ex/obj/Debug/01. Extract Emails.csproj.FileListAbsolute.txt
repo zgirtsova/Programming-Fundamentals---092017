@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\26. Regular Expressions (RegEx) - Ex\bin\Debug\_26.Regular_Expressions__RegEx____Ex.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\26. Regular Expressions (RegEx) - Ex\bin\Debug\_26.Regular_Expressions__RegEx____Ex.exe
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\26. Regular Expressions (RegEx) - Ex\bin\Debug\_26.Regular_Expressions__RegEx____Ex.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\26. Regular Expressions (RegEx) - Ex\obj\Debug\01. Extract Emails.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\26. Regular Expressions (RegEx) - Ex\obj\Debug\_26.Regular_Expressions__RegEx____Ex.exe
+c:\users\zoya\documents\visual studio 2017\Projects\26. Regular Expressions (RegEx) - Ex\26. Regular Expressions (RegEx) - Ex\obj\Debug\_26.Regular_Expressions__RegEx____Ex.pdb

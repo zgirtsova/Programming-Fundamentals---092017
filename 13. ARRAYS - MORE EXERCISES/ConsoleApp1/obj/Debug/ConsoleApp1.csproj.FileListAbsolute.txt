@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\13. ARRAYS - MORE EXERCISES\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

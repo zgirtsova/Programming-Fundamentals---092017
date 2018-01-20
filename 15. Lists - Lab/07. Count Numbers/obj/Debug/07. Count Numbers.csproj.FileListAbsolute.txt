@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\07. Count Numbers\obj\Debug\07. Count Numbers.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\07. Count Numbers\obj\Debug\_07.Count_Numbers.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\07. Count Numbers\obj\Debug\_07.Count_Numbers.pdb

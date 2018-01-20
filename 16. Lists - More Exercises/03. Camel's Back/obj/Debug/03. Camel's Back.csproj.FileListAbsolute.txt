@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\03. Camel's Back\bin\Debug\_03.Camel_s_Back.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\03. Camel's Back\bin\Debug\_03.Camel_s_Back.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\03. Camel's Back\bin\Debug\_03.Camel_s_Back.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\03. Camel's Back\obj\Debug\03. Camel's Back.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\03. Camel's Back\obj\Debug\_03.Camel_s_Back.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\03. Camel's Back\obj\Debug\_03.Camel_s_Back.pdb

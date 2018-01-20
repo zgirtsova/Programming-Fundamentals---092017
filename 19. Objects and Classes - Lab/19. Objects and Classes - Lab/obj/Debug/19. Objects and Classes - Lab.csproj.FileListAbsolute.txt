@@ -1,0 +1,19 @@
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\_19.Objects_and_Classes___Lab.exe.config
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\_19.Objects_and_Classes___Lab.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\_19.Objects_and_Classes___Lab.pdb
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\obj\Debug\19. Objects and Classes - Lab.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\obj\Debug\_19.Objects_and_Classes___Lab.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\obj\Debug\_19.Objects_and_Classes___Lab.pdb
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\NetOffice.dll
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\NPOI.dll
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\NPOI.OOXML.dll
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\OfficeApi.dll
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\VBIDEApi.dll
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\stdole.dll
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\NetOffice.xml
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\NPOI.xml
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\OfficeApi.xml
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\19. Objects and Classes - Lab\bin\Debug\VBIDEApi.xml

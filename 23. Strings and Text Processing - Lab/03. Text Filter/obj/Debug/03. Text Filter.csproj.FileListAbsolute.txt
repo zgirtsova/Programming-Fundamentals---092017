@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\03. Text Filter\bin\Debug\_03.Text_Filter.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\03. Text Filter\obj\Debug\_03.Text_Filter.exe
+c:\users\zoya\documents\visual studio 2017\Projects\23. Strings and Text Processing - Lab\03. Text Filter\obj\Debug\_03.Text_Filter.pdb

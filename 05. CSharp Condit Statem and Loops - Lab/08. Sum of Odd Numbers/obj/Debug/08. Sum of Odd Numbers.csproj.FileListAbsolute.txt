@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\05. CSharp Condit Statem and Loops - Lab\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\05. CSharp Condit Statem and Loops - Lab\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\05. CSharp Condit Statem and Loops - Lab\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\05. CSharp Condit Statem and Loops - Lab\08. Sum of Odd Numbers\obj\Debug\08. Sum of Odd Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\05. CSharp Condit Statem and Loops - Lab\08. Sum of Odd Numbers\obj\Debug\_08.Sum_of_Odd_Numbers.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\05. CSharp Condit Statem and Loops - Lab\08. Sum of Odd Numbers\obj\Debug\_08.Sum_of_Odd_Numbers.pdb

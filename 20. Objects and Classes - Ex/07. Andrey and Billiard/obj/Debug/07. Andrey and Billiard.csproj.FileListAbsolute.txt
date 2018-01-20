@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\07. Andrey and Billiard\obj\Debug\07. Andrey and Billiard.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\07. Andrey and Billiard\obj\Debug\_07.Andrey_and_Billiard.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\07. Andrey and Billiard\obj\Debug\_07.Andrey_and_Billiard.pdb

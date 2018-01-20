@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\_01.Count_Real_Numbers.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\_01.Count_Real_Numbers.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\_01.Count_Real_Numbers.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\01. Count Real Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\_01.Count_Real_Numbers.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\_01.Count_Real_Numbers.pdb

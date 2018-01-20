@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\05. Short Words Sorted.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\_05.Short_Words_Sorted.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\_05.Short_Words_Sorted.pdb

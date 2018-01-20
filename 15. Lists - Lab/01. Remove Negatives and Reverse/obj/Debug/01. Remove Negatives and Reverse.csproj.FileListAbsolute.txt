@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\_01.Remove_Negatives_and_Reverse.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\15. Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\_01.Remove_Negatives_and_Reverse.pdb

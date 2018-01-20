@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\18. Dictionaries, Lambda and LINQ - Ex\obj\Debug\01. Phonebook.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\18. Dictionaries, Lambda and LINQ - Ex\bin\Debug\_18.Dictionaries__Lambda_and_LINQ___Ex.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\18. Dictionaries, Lambda and LINQ - Ex\bin\Debug\_18.Dictionaries__Lambda_and_LINQ___Ex.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\18. Dictionaries, Lambda and LINQ - Ex\bin\Debug\_18.Dictionaries__Lambda_and_LINQ___Ex.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\18. Dictionaries, Lambda and LINQ - Ex\obj\Debug\_18.Dictionaries__Lambda_and_LINQ___Ex.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Dictionaries, Lambda and LINQ - Ex\18. Dictionaries, Lambda and LINQ - Ex\obj\Debug\_18.Dictionaries__Lambda_and_LINQ___Ex.pdb

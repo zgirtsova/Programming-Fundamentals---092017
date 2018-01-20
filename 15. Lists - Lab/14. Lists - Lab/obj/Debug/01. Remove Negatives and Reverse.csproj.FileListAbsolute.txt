@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\14. Lists - Lab\bin\Debug\_14.Lists___Lab.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\14. Lists - Lab\bin\Debug\_14.Lists___Lab.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\14. Lists - Lab\bin\Debug\_14.Lists___Lab.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\14. Lists - Lab\obj\Debug\01. Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\14. Lists - Lab\obj\Debug\_14.Lists___Lab.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Lists - Lab\14. Lists - Lab\obj\Debug\_14.Lists___Lab.pdb

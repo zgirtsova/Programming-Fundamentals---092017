@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\04. Sieve of Eratosthenes\obj\Debug\04. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\04. Sieve of Eratosthenes\obj\Debug\_04.Sieve_of_Eratosthenes.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\04. Sieve of Eratosthenes\obj\Debug\_04.Sieve_of_Eratosthenes.pdb

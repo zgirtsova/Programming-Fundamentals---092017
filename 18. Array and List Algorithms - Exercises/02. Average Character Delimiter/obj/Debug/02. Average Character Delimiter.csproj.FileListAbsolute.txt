@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\02. Average Character Delimiter\bin\Debug\_02.Average_Character_Delimiter.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\02. Average Character Delimiter\bin\Debug\_02.Average_Character_Delimiter.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\02. Average Character Delimiter\bin\Debug\_02.Average_Character_Delimiter.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\02. Average Character Delimiter\obj\Debug\_02.Average_Character_Delimiter.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\02. Average Character Delimiter\obj\Debug\_02.Average_Character_Delimiter.pdb

@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.exe
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.pdb

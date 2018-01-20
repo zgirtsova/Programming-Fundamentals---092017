@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.exe
+c:\users\zoya\documents\visual studio 2017\Projects\10. Data Types and Variables - Ex\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.pdb

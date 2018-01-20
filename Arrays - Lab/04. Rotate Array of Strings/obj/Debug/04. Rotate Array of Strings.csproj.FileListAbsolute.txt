@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\04. Rotate Array of Strings\bin\Debug\_04.Rotate_Array_of_Strings.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\04. Rotate Array of Strings\bin\Debug\_04.Rotate_Array_of_Strings.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\04. Rotate Array of Strings\bin\Debug\_04.Rotate_Array_of_Strings.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\04. Rotate Array of Strings\obj\Debug\04. Rotate Array of Strings.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\04. Rotate Array of Strings\obj\Debug\_04.Rotate_Array_of_Strings.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\04. Rotate Array of Strings\obj\Debug\_04.Rotate_Array_of_Strings.pdb

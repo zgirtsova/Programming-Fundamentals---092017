@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\obj\Debug\06. Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\obj\Debug\_06.Fold_and_Sum.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\17. Dictionaries, Lambda and LINQ - Lab\06. Fold and Sum\obj\Debug\_06.Fold_and_Sum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\04. Distance between Points\bin\Debug\_04.Distance_between_Points.exe.config
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\04. Distance between Points\bin\Debug\_04.Distance_between_Points.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\04. Distance between Points\bin\Debug\_04.Distance_between_Points.pdb
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\04. Distance between Points\obj\Debug\04. Distance between Points.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\04. Distance between Points\obj\Debug\_04.Distance_between_Points.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\04. Distance between Points\obj\Debug\_04.Distance_between_Points.pdb

@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.exe
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\04. Match Dates\obj\Debug\04. Match Dates.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\04. Match Dates\obj\Debug\_04.Match_Dates.exe
+c:\users\zoya\documents\visual studio 2017\Projects\25. Regular Expressions (RegEx) - Lab\04. Match Dates\obj\Debug\_04.Match_Dates.pdb

@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\05. Note Statistics\bin\Debug\_05.Note_Statistics.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\05. Note Statistics\bin\Debug\_05.Note_Statistics.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\05. Note Statistics\bin\Debug\_05.Note_Statistics.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\05. Note Statistics\obj\Debug\05. Note Statistics.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\05. Note Statistics\obj\Debug\_05.Note_Statistics.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\05. Note Statistics\obj\Debug\_05.Note_Statistics.pdb

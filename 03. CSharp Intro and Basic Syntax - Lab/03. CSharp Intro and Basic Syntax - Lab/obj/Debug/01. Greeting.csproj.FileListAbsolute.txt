@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. CSharp Intro and Basic Syntax - Lab\bin\Debug\_03.CSharp_Intro_and_Basic_Syntax___Lab.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. CSharp Intro and Basic Syntax - Lab\bin\Debug\_03.CSharp_Intro_and_Basic_Syntax___Lab.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. CSharp Intro and Basic Syntax - Lab\bin\Debug\_03.CSharp_Intro_and_Basic_Syntax___Lab.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. CSharp Intro and Basic Syntax - Lab\obj\Debug\01. Greeting.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. CSharp Intro and Basic Syntax - Lab\obj\Debug\_03.CSharp_Intro_and_Basic_Syntax___Lab.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. CSharp Intro and Basic Syntax - Lab\obj\Debug\_03.CSharp_Intro_and_Basic_Syntax___Lab.pdb

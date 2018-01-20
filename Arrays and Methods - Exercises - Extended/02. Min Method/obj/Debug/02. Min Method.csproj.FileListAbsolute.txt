@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\02. Min Method\bin\Debug\_02.Min_Method.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\02. Min Method\bin\Debug\_02.Min_Method.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\02. Min Method\bin\Debug\_02.Min_Method.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\02. Min Method\obj\Debug\_02.Min_Method.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\02. Min Method\obj\Debug\_02.Min_Method.pdb

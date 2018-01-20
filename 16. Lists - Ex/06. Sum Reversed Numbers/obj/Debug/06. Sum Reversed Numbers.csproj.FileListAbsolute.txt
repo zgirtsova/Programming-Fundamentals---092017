@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\06. Sum Reversed Numbers\obj\Debug\06. Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Exam 20170820\bin\Debug\Exam 20170820.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Exam 20170820\bin\Debug\Exam 20170820.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Exam 20170820\bin\Debug\Exam 20170820.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Exam 20170820\obj\Debug\1. Trainers.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Exam 20170820\obj\Debug\Exam 20170820.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Exam 20170820\Exam 20170820\obj\Debug\Exam 20170820.pdb

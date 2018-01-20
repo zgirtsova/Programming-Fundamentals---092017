@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\06. Book Library Modification\obj\Debug\06. Book Library Modification.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.pdb

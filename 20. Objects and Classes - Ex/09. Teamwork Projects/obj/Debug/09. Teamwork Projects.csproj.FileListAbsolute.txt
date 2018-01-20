@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\09. Teamwork Projects\obj\Debug\09. Teamwork Projects.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\09. Teamwork Projects\obj\Debug\_09.Teamwork_Projects.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\09. Teamwork Projects\obj\Debug\_09.Teamwork_Projects.pdb

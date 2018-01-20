@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\14. Arrays and Methods - More Exercises\bin\Debug\_14.Arrays_and_Methods___More_Exercises.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\14. Arrays and Methods - More Exercises\bin\Debug\_14.Arrays_and_Methods___More_Exercises.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\14. Arrays and Methods - More Exercises\bin\Debug\_14.Arrays_and_Methods___More_Exercises.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\14. Arrays and Methods - More Exercises\obj\Debug\01. Array Statistics.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\14. Arrays and Methods - More Exercises\obj\Debug\_14.Arrays_and_Methods___More_Exercises.exe
+c:\users\zoya\documents\visual studio 2017\Projects\14. Arrays and Methods - More Exercises\14. Arrays and Methods - More Exercises\obj\Debug\_14.Arrays_and_Methods___More_Exercises.pdb

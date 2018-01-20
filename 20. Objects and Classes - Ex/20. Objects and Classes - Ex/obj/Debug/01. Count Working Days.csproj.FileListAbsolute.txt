@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\20. Objects and Classes - Ex\bin\Debug\_20.Objects_and_Classes___Ex.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\20. Objects and Classes - Ex\bin\Debug\_20.Objects_and_Classes___Ex.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\20. Objects and Classes - Ex\bin\Debug\_20.Objects_and_Classes___Ex.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\20. Objects and Classes - Ex\obj\Debug\01. Count Working Days.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\20. Objects and Classes - Ex\obj\Debug\_20.Objects_and_Classes___Ex.exe
+c:\users\zoya\documents\visual studio 2017\Projects\20. Objects and Classes - Ex\20. Objects and Classes - Ex\obj\Debug\_20.Objects_and_Classes___Ex.pdb

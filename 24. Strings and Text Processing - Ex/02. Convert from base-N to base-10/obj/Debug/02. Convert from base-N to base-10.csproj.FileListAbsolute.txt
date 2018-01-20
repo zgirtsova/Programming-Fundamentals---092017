@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\02. Convert from base-N to base-10\obj\Debug\_02.Convert_from_base_N_to_base_10.exe
+c:\users\zoya\documents\visual studio 2017\Projects\24. Strings and Text Processing - Ex\02. Convert from base-N to base-10\obj\Debug\_02.Convert_from_base_N_to_base_10.pdb

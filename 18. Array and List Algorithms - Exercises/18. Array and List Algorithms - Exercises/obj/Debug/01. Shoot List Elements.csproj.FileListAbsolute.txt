@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\18. Array and List Algorithms - Exercises\bin\Debug\_18.Array_and_List_Algorithms___Exercises.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\18. Array and List Algorithms - Exercises\bin\Debug\_18.Array_and_List_Algorithms___Exercises.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\18. Array and List Algorithms - Exercises\bin\Debug\_18.Array_and_List_Algorithms___Exercises.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\18. Array and List Algorithms - Exercises\obj\Debug\01. Shoot List Elements.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\18. Array and List Algorithms - Exercises\obj\Debug\_18.Array_and_List_Algorithms___Exercises.exe
+c:\users\zoya\documents\visual studio 2017\Projects\18. Array and List Algorithms - Exercises\18. Array and List Algorithms - Exercises\obj\Debug\_18.Array_and_List_Algorithms___Exercises.pdb

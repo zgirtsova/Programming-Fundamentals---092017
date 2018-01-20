@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\04. Ununion Lists\bin\Debug\_04.Ununion_Lists.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\04. Ununion Lists\bin\Debug\_04.Ununion_Lists.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\04. Ununion Lists\bin\Debug\_04.Ununion_Lists.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\04. Ununion Lists\obj\Debug\04. Ununion Lists.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\04. Ununion Lists\obj\Debug\_04.Ununion_Lists.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - More Exercises\04. Ununion Lists\obj\Debug\_04.Ununion_Lists.pdb

@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. Employee Data\bin\Debug\_03.Employee_Data.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. Employee Data\bin\Debug\_03.Employee_Data.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. Employee Data\bin\Debug\_03.Employee_Data.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. Employee Data\obj\Debug\_03.Employee_Data.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\03. CSharp Intro and Basic Syntax - Lab\03. Employee Data\obj\Debug\_03.Employee_Data.pdb

@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\02. Change List\bin\Debug\_02.Change_List.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\02. Change List\bin\Debug\_02.Change_List.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\02. Change List\bin\Debug\_02.Change_List.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\02. Change List\obj\Debug\02. Change List.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\02. Change List\obj\Debug\_02.Change_List.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\02. Change List\obj\Debug\_02.Change_List.pdb

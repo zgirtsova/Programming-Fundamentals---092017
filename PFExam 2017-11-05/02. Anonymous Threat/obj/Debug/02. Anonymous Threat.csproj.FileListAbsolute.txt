@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\02. Anonymous Threat\bin\Debug\_02.Anonymous_Threat.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\02. Anonymous Threat\bin\Debug\_02.Anonymous_Threat.exe
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\02. Anonymous Threat\bin\Debug\_02.Anonymous_Threat.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\02. Anonymous Threat\obj\Debug\02. Anonymous Threat.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\02. Anonymous Threat\obj\Debug\_02.Anonymous_Threat.exe
+c:\users\zoya\documents\visual studio 2017\Projects\PFExam 2017-11-05\02. Anonymous Threat\obj\Debug\_02.Anonymous_Threat.pdb

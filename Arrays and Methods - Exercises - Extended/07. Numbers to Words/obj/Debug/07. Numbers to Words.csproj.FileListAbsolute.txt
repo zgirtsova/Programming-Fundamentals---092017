@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\07. Numbers to Words\bin\Debug\_07.Numbers_to_Words.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\07. Numbers to Words\bin\Debug\_07.Numbers_to_Words.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\07. Numbers to Words\bin\Debug\_07.Numbers_to_Words.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\07. Numbers to Words\obj\Debug\_07.Numbers_to_Words.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\07. Numbers to Words\obj\Debug\_07.Numbers_to_Words.pdb

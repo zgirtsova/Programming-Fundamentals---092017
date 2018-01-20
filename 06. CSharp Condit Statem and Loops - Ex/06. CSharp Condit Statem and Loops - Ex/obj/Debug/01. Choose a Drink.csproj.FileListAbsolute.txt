@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\06. CSharp Condit Statem and Loops - Ex\06. CSharp Condit Statem and Loops - Ex\bin\Debug\_06.CSharp_Condit_Statem_and_Loops___Ex.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\06. CSharp Condit Statem and Loops - Ex\06. CSharp Condit Statem and Loops - Ex\bin\Debug\_06.CSharp_Condit_Statem_and_Loops___Ex.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\06. CSharp Condit Statem and Loops - Ex\06. CSharp Condit Statem and Loops - Ex\bin\Debug\_06.CSharp_Condit_Statem_and_Loops___Ex.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\06. CSharp Condit Statem and Loops - Ex\06. CSharp Condit Statem and Loops - Ex\obj\Debug\_06.CSharp_Condit_Statem_and_Loops___Ex.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\06. CSharp Condit Statem and Loops - Ex\06. CSharp Condit Statem and Loops - Ex\obj\Debug\_06.CSharp_Condit_Statem_and_Loops___Ex.pdb

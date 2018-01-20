@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\11. Equal Sums\bin\Debug\_11.Equal_Sums.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\11. Equal Sums\obj\Debug\11. Equal Sums.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\11. Equal Sums\obj\Debug\_11.Equal_Sums.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\11. Equal Sums\obj\Debug\_11.Equal_Sums.pdb

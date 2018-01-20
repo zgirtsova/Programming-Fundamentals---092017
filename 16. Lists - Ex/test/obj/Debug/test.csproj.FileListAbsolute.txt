@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\test\bin\Debug\test.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\test\bin\Debug\test.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\test\bin\Debug\test.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\test\obj\Debug\test.exe
+c:\users\zoya\documents\visual studio 2017\Projects\16. Lists - Ex\test\obj\Debug\test.pdb

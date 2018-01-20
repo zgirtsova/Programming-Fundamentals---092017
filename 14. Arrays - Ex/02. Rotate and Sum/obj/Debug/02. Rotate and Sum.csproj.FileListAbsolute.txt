@@ -1,0 +1,6 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\02. Rotate and Sum\obj\Debug\02. Rotate and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\14. Arrays - Ex\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.pdb

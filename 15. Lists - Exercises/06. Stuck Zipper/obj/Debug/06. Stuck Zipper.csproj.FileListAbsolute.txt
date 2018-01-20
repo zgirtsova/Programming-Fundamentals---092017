@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\06. Stuck Zipper\bin\Debug\_06.Stuck_Zipper.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\06. Stuck Zipper\bin\Debug\_06.Stuck_Zipper.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\06. Stuck Zipper\bin\Debug\_06.Stuck_Zipper.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\06. Stuck Zipper\obj\Debug\06. Stuck Zipper.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\06. Stuck Zipper\obj\Debug\_06.Stuck_Zipper.exe
+c:\users\zoya\documents\visual studio 2017\Projects\15. Lists - Exercises\06. Stuck Zipper\obj\Debug\_06.Stuck_Zipper.pdb

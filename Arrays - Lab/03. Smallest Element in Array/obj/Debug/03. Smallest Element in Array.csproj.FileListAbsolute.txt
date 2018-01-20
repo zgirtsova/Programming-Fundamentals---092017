@@ -1,0 +1,5 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\03. Smallest Element in Array\bin\Debug\_03.Smallest_Element_in_Array.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\03. Smallest Element in Array\bin\Debug\_03.Smallest_Element_in_Array.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\03. Smallest Element in Array\bin\Debug\_03.Smallest_Element_in_Array.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\03. Smallest Element in Array\obj\Debug\_03.Smallest_Element_in_Array.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays - Lab\03. Smallest Element in Array\obj\Debug\_03.Smallest_Element_in_Array.pdb

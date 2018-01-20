@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\08. Greater of Two Values\obj\Debug\_08.Greater_of_Two_Values.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\11. Methods. Debug + Troublesh Code - Lab\08. Greater of Two Values\obj\Debug\_08.Greater_of_Two_Values.pdb

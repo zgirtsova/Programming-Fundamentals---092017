@@ -1,0 +1,5 @@
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\05. Array Manipulator\bin\Debug\_05.Array_Manipulator.exe.config
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\05. Array Manipulator\bin\Debug\_05.Array_Manipulator.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\05. Array Manipulator\bin\Debug\_05.Array_Manipulator.pdb
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\05. Array Manipulator\obj\Debug\_05.Array_Manipulator.exe
+C:\Users\Zoya\Documents\Visual Studio 2017\Projects\16. Lists - Ex\05. Array Manipulator\obj\Debug\_05.Array_Manipulator.pdb

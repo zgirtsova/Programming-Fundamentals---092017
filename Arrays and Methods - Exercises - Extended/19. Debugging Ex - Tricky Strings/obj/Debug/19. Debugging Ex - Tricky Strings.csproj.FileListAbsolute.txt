@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\19. Debugging Ex - Tricky Strings\bin\Debug\_19.Debugging_Ex___Tricky_Strings.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\19. Debugging Ex - Tricky Strings\bin\Debug\_19.Debugging_Ex___Tricky_Strings.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\19. Debugging Ex - Tricky Strings\bin\Debug\_19.Debugging_Ex___Tricky_Strings.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\19. Debugging Ex - Tricky Strings\obj\Debug\19. Debugging Ex - Tricky Strings.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\19. Debugging Ex - Tricky Strings\obj\Debug\_19.Debugging_Ex___Tricky_Strings.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\19. Debugging Ex - Tricky Strings\obj\Debug\_19.Debugging_Ex___Tricky_Strings.pdb

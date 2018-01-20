@@ -1,0 +1,6 @@
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\21. Debugging Exercise - Tetris\bin\Debug\_21.Debugging_Exercise___Tetris.exe.config
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\21. Debugging Exercise - Tetris\bin\Debug\_21.Debugging_Exercise___Tetris.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\21. Debugging Exercise - Tetris\bin\Debug\_21.Debugging_Exercise___Tetris.pdb
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\21. Debugging Exercise - Tetris\obj\Debug\21. Debugging Exercise - Tetris.csprojResolveAssemblyReference.cache
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\21. Debugging Exercise - Tetris\obj\Debug\_21.Debugging_Exercise___Tetris.exe
+c:\users\zoya\documents\visual studio 2017\Projects\Arrays and Methods - Exercises - Extended\21. Debugging Exercise - Tetris\obj\Debug\_21.Debugging_Exercise___Tetris.pdb

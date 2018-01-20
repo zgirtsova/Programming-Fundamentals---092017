@@ -1,0 +1,6 @@
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe.config
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.pdb
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\05. Closest Two Points\obj\Debug\05. Closest Two Points.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.exe
+C:\Users\Zoya\documents\visual studio 2017\Projects\19. Objects and Classes - Lab\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.pdb
